@@ -25,7 +25,7 @@ Prior to downloading any material from our GitHub site, it will be necessary to 
 2) Hardware parts list and sketch [DMR](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DMR)
 3) Our application and approval from the Danish ministry (for inspiration to write your own approval documents). This includes test strategies, user manuals, risk analysis, etc. This is provided in [DHF](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DHF).
 
-PLEASE NOTE: All information will be released as fast as possible but with care to direct you toward that finished and that not. It will however, be necessary to perform your own testing if you are to reproduce this.
+PLEASE NOTE: All information will be released as fast as possible but with care to direct you toward that finished and that not. It will however, be necessary to perform your own testing if you are to reproduce this. **All the material is provided under a permissive license, by downloading, cloning or forking this repository you will be bound by this [license](LICENSE.md).**
 
 We hope you find our releases useful.
 
