@@ -21,7 +21,7 @@ The AAU is legally approved for use in Denmark according to the approval documen
 
 Prior to downloading any material from our GitHub site, it will be necessary to sign a disclaimer so that any use of the material is at your own discretion and legal liability. Following that you will have access to the following material:
 
-1) Software design and code for controlling PLCs for regulating the ventilator [Software Repository](https://github.com/CoRescue/AAUPandemicVentilator)
+1) Software design and code for controlling PLCs for regulating the ventilator [Software Repository](https://github.com/CoRescue/AAUPandemicVentilator_Software)
 2) Hardware parts list and sketch [DMR](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DMR)
 3) Our application and approval from the Danish ministry (for inspiration to write your own approval documents). This includes test strategies, user manuals, risk analysis, etc. This is provided in [DHF](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DHF).
 
