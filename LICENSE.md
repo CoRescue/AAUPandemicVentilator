@@ -6,9 +6,11 @@ However, due to the emergency situation caused by the effects of the COVID-19 pa
 
 The information and materials made available by Aalborg University (the ‘Disclosed Materials) include:
 
-* *Technical File for the AAU PANDEMIC VENTILATOR*
+1) Software design and code for controlling PLCs for regulating the ventilator [Software Repository](https://github.com/CoRescue/AAUPandemicVentilator)
+2) Hardware parts list and sketch [DMR](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DMR)
+3) Our application and approval from the Danish ministry (for inspiration to write your own approval documents). This includes test strategies, user manuals, risk analysis, etc. This is provided in [DHF](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DHF).
 
-The Disclosed Materials are made available by Aalborg University subject to specific terms and conditions of use found at the present repository at [LINK]. In order to be able download and access the Disclosed Materials you will be asked to acknowledge that you have read and accepted these specific terms and conditions of use.
+The Disclosed Materials are made available by Aalborg University subject to specific terms and conditions of use found at the present [repository](https://github.com/CoRescue/AAUPandemicVentilator). In order to be able download and access the Disclosed Materials you will be asked to acknowledge that you have read and accepted these specific terms and conditions of use.
 
 ## TERMS AND CONDITIONS OF USE
 
