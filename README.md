@@ -7,7 +7,7 @@ This acute, critical situation has come as a shock to many of the world’s heal
 
 ## Public site
 
-While this Github Repository are intended for contributes and manufacturer, the project also has a public site with information for the general public and for Health Care Providers that are in the need of the AAU Pandemic Ventilator.
+While this Github Repository is intended for contributes and manufacturer, the project also has a public site with information for the general public and for Health Care Providers that are in the need of the AAU Pandemic Ventilator.
 
 * [CoRESCUE AAU Pandemic Ventilator](https://corescue.org/)
 
