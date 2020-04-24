@@ -30,7 +30,7 @@ The AAU Pandemic Ventilator is legally approved for use on COVID-19 patients in 
 **All the material is provided under a permissive license, by downloading, cloning or forking this repository you will be bound by this [license](LICENSE.md)** and the use of any of the material provided is at your own discretion and legal liability. Following that you will have access to the following material:
 
 1) Software design and code for controlling PLCs for regulating the ventilator [Software Repository](https://github.com/CoRescue/AAUPandemicVentilator_Software)
-2) Hardware parts list and sketch [DMR](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DMR)
+2) Hardware parts list and sketch [Reference Implementations](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/Implementations)
 3) Our application and approval from the Danish ministry (for inspiration to write your own approval documents). This includes test strategies, user manuals, risk analysis, etc. This is provided in [DHF](https://github.com/CoRescue/AAUPandemicVentilator/tree/master/DHF).
 
 PLEASE NOTE: All information will be released as fast as possible but with care to direct you toward that finished and that not. It will however, be necessary to perform your own testing if you are to reproduce this.
