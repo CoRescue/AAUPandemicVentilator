@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Controller>
+<ExecutiveLoadOption>
+    <ExecFile>\Logix\CurrentApp\Executive.bin</ExecFile>
+    <OtherExecFile>\Logix\CurrentApp\Netlinx.bin</OtherExecFile>
+</ExecutiveLoadOption>
+<ProgramLoadOption>
+    <ProgramLoadMode>ALWAYS_EU_ENET_RESTORE</ProgramLoadMode>
+    <LoadFile>\Logix\CurrentApp\Pandemic_Ventilator.p5k</LoadFile>
+</ProgramLoadOption>
+<ControllerModeOption>
+    <ControllerMode>RUN</ControllerMode>
+</ControllerModeOption>
+<VersionControl>
+    <Version>01.032.011.016</Version>
+</VersionControl>
+<FirmwareSupervisor>
+    <UpdateMode>ALWAYS_EU_ENET_RESTORE</UpdateMode>
+</FirmwareSupervisor>
+</Controller>

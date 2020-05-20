@@ -1,0 +1,69 @@
+------------------------------------------------
+COPYRIGHT NOTICE, DISCLAIMER, and LICENSE
+================================================
+
+Portions of the software are based on libpng,
+	• Copyright (c) 1998-2014 Glenn Randers-Pehrson
+	• Copyright (c) 1996-1997 Andreas Dilger
+	• Copyright (c) 1995-1996 Guy Eric Schalnat, Group 42, Inc.
+
+  With the following additions to the disclaimer:
+   There is no warranty against interference with your enjoyment of the library or against
+   infringement. There is no warranty that our efforts or the library will fulfill any of your
+   particular purposes or needs. This library is provided with all faults, and the entire risk of
+   satisfactory quality, performance, accuracy, and effort is with the user
+  http://www.libpng.org/pub/png/src/libpng-LICENSE.txt
+
+Portions of the software are based in part on the work of the Independent JPEG Group.
+  The authors accept NO LIABILITY for damages of any kind.
+  http://www.ijg.org/files/README
+
+Portions of the software are based on zlib,
+	• Copyright (C) 1995-2013 Jean-loup Gailly and Mark Adler.
+
+  This software is provided 'as-is', without any express or implied warranty. In no event will
+   the authors be held liable for any damages arising from the use of this software.
+  http://www.zlib.net/zlib_license.html
+
+Portions of the software are based RSA Data Security, Inc., MD5 Message-Digest Algorithm
+	• Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+
+  RSA Data Security, Inc. makes no representations concerning either the merchantability of
+   this software or the suitability of this software for any particular purpose. It is provided 
+   “as is” without express or implied warranty of any kind. 
+  https://www.ietf.org/rfc/rfc1321.txt
+
+Portions of the software are based BigDigit multiple-precision arithmetic routines
+  http://www.di-mgt.com.au/bigdigits.html#copyright
+
+Tight-VNC v2.0+ used in PanelView 800 terminals, it is known to use the following
+  third-party components (but may use other components as well, in present or in the future,
+   if their licensing terms do not conflict with this Agreement):
+	• zlib data compression library, Copyright (C) 1995-2002 Jean-loup Gailly and Mark Adler
+	• The Independent JPEG Group's JPEG software, Copyright (C) 1991-1998 Thomas G. Lane
+	• X11 regions implementation, Copyright 1987, 1988, 1989, 1998 The Open	Group, Copyright 
+	  1987, 1988, 1989 Digital Equipment Corporation
+	• Reference implementation of the MD5 Message-Digest Algorithm, Copyright (C) 1991-1992, 
+	  RSA Data Security, Inc.
+	• Public domain implementation of the Data Encryption Standard, Copyright (C) 1988,1989,
+	  1990,1991,1992 by Richard Outerbridge.
+  https://rizzoma.com/topic/231a6ccc05edd89cf88a20bf9794d8d1/0_b_3r8e_2nk34/
+
+---------------
+Offer of Source
+===============
+The software included in this product contains copyrighted software that is licensed under
+one or more open source licenses. Copies of those licenses are included with the software.
+Corresponding Source for open source packages included in this product can be located at
+the web site(s) identified in the product documentation.
+
+You may alternately obtain complete Corresponding Source by contacting Rockwell
+Automation via our Contact form on the Rockwell Automation website:
+http://www.rockwellautomation.com/global/about-us/contact/contact.page
+Please include “Open Source” as part of the request text.
+
+
+
+
+Last updated on Monday, Mar 12, 2018
+=========================================== END OF FILE ===========================================

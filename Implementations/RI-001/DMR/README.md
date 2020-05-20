@@ -58,7 +58,7 @@ The parts included here are examples of parts that have been used to build the A
 | ID  | RI-ID | LEVEL | COUNT | REV | TYPE | Titel                                       | DOCREV |
 |:---:|:-----:|:-----:|:-----:|:---:|:----:| ------------------------------------------- |:------:|
 | PN  | RI001 | 80    | 001   | A   |      | AAU Pandemic Ventilator                     |        |
-|     |       |       |       | A   | BOM  | AAU Pandemic Ventilator (Bill of Materials) | 001    |
+|     |       |       |       | A   | BOM  | AAU Pandemic Ventilator (Bill of Materials) | 002    |
 |     |       |       |       | A   | DRW  | AAU Pandemic Ventilator (Drawing)           | 001    |
 
 ### 70 Assenblies of devices or parts
