@@ -23,7 +23,7 @@ In the process, the team have included relevant industrial partners who have hel
 
 The design and technical specifications are currently being released in this repository. It is our hope in doing so that all can use this design either directly or as inspiration for development, according to their acute need. In this way the AAU Pandemic Ventilator can be used as a supplement to existing ventilators when those are not available.
 
-The AAU Pandemic Ventilator is legally approved for use on COVID-19 patients in Denmark in the current crisis situation, according to the approval documentation provided VENT-20-004-DOC Regulatory Dispensation, Rev. 001.
+The AAU Pandemic Ventilator has previously been approved for use on COVID-19 patients in Denmark in the current crisis situation, according to the approval documentation provided VENT-20-004-DOC Regulatory Dispensation, Rev. 001.
 
 ## Available materials
 
